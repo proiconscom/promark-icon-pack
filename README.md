@@ -1,6 +1,6 @@
 # ProMark Icon Pack
 
-**300+ animated SVG icons** crafted for modern UI and product design.  
+**35+ animated SVG icons** crafted for modern UI and product design.  
 Part of the [ProIcons](https://proicons.com) icon directory.
 
 Browse, preview and download at:  
