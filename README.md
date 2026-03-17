@@ -10,7 +10,7 @@ Browse, preview and download at:
 
 ## Features
 
-- 300+ animated SVG icons
+- 35+ animated SVG icons
 - Clean, minimal style
 - Optimized for web and app UI
 - Free for personal and commercial use
